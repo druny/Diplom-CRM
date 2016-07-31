@@ -1,0 +1,8 @@
+{
+  "require":
+  {
+    "ircmaxell/password-compat": "1.*.*"
+
+  }
+
+}

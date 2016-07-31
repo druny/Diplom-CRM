@@ -1,0 +1,4 @@
+ Админка
+Seo_admin/Tm123456
+Сервер BITRIX218 (92.53.96.253)
+tosspot_seo|Tm123456
